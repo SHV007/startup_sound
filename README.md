@@ -7,4 +7,5 @@ and then place the .service in `/etc/systemd/system/` and enable the service.
 
 **won't work with other shell than bash (tried to make it work with zsh and didn't get any result. but will make my best to make it work)**
 
+
 that's it :)
