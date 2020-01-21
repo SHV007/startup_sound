@@ -1,0 +1,9 @@
+[Unit]
+Description=startup sound
+
+[Service]
+ExecStart=/usr/bin/startup_sound
+
+[Install]
+WantedBy=multi-user.target
+
