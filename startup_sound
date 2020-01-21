@@ -1,6 +1,6 @@
 ### script that will play a startup sound
 #!/bin/sh
 
-mpv /usr/share/sounds/intel-sound
+mplayer /usr/share/sounds/intel-sound
 
 
